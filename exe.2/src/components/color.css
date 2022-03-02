@@ -1,0 +1,15 @@
+div .color{
+  display:flex;
+  margin:10px auto;
+  align-items:center;
+}
+span {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin:10px;
+}
+p {
+  display: inline;
+  margin-bottom:0 !important;
+}
